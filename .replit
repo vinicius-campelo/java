@@ -1,2 +1,2 @@
-language = "bash"
-run = "echo hello word"
+language = "java"
+run = "hello word"
